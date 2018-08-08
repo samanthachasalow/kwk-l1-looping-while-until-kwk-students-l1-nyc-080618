@@ -28,6 +28,7 @@ Fill out the content of the `using_while` method so that calling it will `puts` 
 4. Let's get the second test passing by coding our solution in `until.rb`:
 Fill out the content of the `using_until` method to `puts` the desired phrase, "Wingardium Leviosa", until our levitation force equals `10`. Remember, every time you `puts` the phrase, you should increment your levitation force by `1`.
 
-**Hint: If you get stuck an infinite loop when you run your tests or your code, you can abort the test run or code by pressing `CONTROL+C` on your keyboard.**
+**Hint: If you get stuck an infinite loop when you run your tests or your code, you can abort the test run or code by pressing `CONTROL
++C` on your keyboard.**
 
 <p data-visibility='hidden'>KWK-L1 The `while` and `until` Constructs</p>
